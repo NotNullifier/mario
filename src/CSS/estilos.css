@@ -47,7 +47,7 @@ body
 }
 ;.container .imagem-titulo
 {
-    max-width: 500px;
+    max-width: 60%;
 }
 .container .descricao
 {
@@ -142,4 +142,7 @@ body
 .modal.aberto{
     opacity: 1;
     visibility: visible;
+}
+main .mario{
+    max-width: 40%;
 }

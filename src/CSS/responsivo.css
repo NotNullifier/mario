@@ -15,7 +15,7 @@
         gap: 30px;
     }
     .container .mario{
-        max-width: 50%;
+        max-width: 40%;
     }
     .container .informacoes{
         display: flex;
@@ -28,6 +28,10 @@
     }
     .container .botao-trailer{
         background-color: #263238;
+    }
+    .container .imagem-titulo
+    {
+        max-width: 60%;
     }
 } 
 @media (max-width:500px)
